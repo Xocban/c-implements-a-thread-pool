@@ -1,0 +1,10 @@
+# ninja log v5
+1	312	1662613498141535873	CMakeFiles/threading.dir/main.cpp.o	612fd5d3c4291c09
+2	279	1662458425908432957	CMakeFiles/threading.dir/test/thread_safe_stack.cpp.o	6610d5f620d3d95c
+312	342	1662613498172837719	threading	8ac1a485afa5c35
+2	312	1662458425942463899	CMakeFiles/threading.dir/test/test_mutex.cpp.o	27059c16111e49fb
+2	270	1662605643595700560	CMakeFiles/threading.dir/test/test_function.cpp.o	f2093af825af0d33
+3	332	1662605309556038400	CMakeFiles/threading.dir/test/threadsafe_queue.cpp.o	74aba29b4494660c
+1	258	1662605320834410681	CMakeFiles/threading.dir/test/test_futuer.cpp.o	3ba2ff7030d76bd5
+1	291	1662640227638213337	CMakeFiles/threading.dir/main.cpp.o	612fd5d3c4291c09
+291	324	1662640227672921437	threading	8ac1a485afa5c35
