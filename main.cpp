@@ -44,8 +44,7 @@ int main() {
     // std::cout << "Hello, World!" << std::endl;
     /*
     start_thread();
-    std::cout << "big_num: " << big_num << "\n";
-     */
+    std::cout << "big_num: " << big_num << "\n";*/
     test_promise();
     /* about the function of this main()*/
 }
